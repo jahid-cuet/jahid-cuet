@@ -1,4 +1,4 @@
-## Hi there 👋, This is Jahid 
+## Hi there 👋 This is Jahid 
 I'm a Biomedical Engineering student at CUET passionate about AI/ML. I specialize in bridging the gap between biomedical science, data analysis, and programming to innovate healthcare solutions for improved patient care, optimized workflows, and advanced medical research.
 
 
