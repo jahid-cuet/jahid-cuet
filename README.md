@@ -5,8 +5,8 @@ A Biomedical Engineering student at CUET passionate about AI/ML and specialize i
 [![](https://visitcount.itsvg.in/api?id=jahid-cuet&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🌱 Currently exploring
--Advanced Machine Learning & Deep Learning
--Full-stack Web Development
+Advanced Machine Learning & Deep Learning
+Full-stack Web Development
 
 ### 🛠️ Technical Proficiencies
 
