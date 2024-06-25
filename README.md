@@ -1,5 +1,5 @@
 ### Hi there 👋, This is Jahid
-
+---
 A Biomedical Engineering student at CUET passionate about AI/ML and specialize in bridging the gap between biomedical science, data analysis, and programming to innovate healthcare solutions for improved patient care, optimized workflows, and advanced medical research.
 
 [![](https://visitcount.itsvg.in/api?id=jahid-cuet&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -8,7 +8,7 @@ A Biomedical Engineering student at CUET passionate about AI/ML and specialize i
 - Advanced Machine Learning and Deep Learning techniques
 - Web development
 
-### 🛠️ Languages and Tools
+### 🛠️ Technical Proficiencies
 
 #### Web Development
 - **Frontend:**
@@ -33,11 +33,11 @@ A Biomedical Engineering student at CUET passionate about AI/ML and specialize i
 
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+ ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jahid-cuet&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-cuet&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-cuet&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 
