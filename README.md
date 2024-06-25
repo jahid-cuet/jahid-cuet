@@ -1,5 +1,5 @@
 ### Hi there 👋, This is Jahid
----
+
 A Biomedical Engineering student at CUET passionate about AI/ML and specialize in bridging the gap between biomedical science, data analysis, and programming to innovate healthcare solutions for improved patient care, optimized workflows, and advanced medical research.
 
 [![](https://visitcount.itsvg.in/api?id=jahid-cuet&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -47,5 +47,4 @@ A Biomedical Engineering student at CUET passionate about AI/ML and specialize i
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/your-github-username)](https://github.com/your-github-username)
-
 
