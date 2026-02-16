@@ -62,9 +62,12 @@ A Biomedical Engineering student at CUET passionate about AI/ML and specialize i
 
 #### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=jahid-cuet&theme=dark&show_icons=true&hide_border=false&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahid-cuet&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-cuet&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-cuet&layout=compact&theme=dark&count_private=true&hide_border=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jahid-cuet&theme=dark)
+
 
 
 ### 🔗 Connect with me
