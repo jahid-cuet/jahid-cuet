@@ -60,7 +60,7 @@ A Biomedical Engineering student at CUET passionate about AI/ML and specialize i
  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=jahid-cuet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Jahid Stats" height="195" />
