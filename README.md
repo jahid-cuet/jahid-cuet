@@ -63,12 +63,12 @@ A Biomedical Engineering student at CUET passionate about AI/ML and specialize i
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=jahid-cuet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Jahid's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jahid-cuet&layout=compact&theme=tokyonight&count_private=true" alt="Jahid's Top Languages" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=jahid-cuet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Jahid's GitHub Stats" height="195" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jahid-cuet&layout=compact&theme=tokyonight&count_private=true" alt="Jahid's Top Languages" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=jahid-cuet&theme=tokyonight" alt="Jahid's Streak" />
+  <img src="https://streak-stats.demolab.com/?user=jahid-cuet&theme=tokyonight" alt="Jahid's Streak" />
 </p>
 
 
