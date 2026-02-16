@@ -73,6 +73,6 @@ A Biomedical Engineering student at CUET passionate about AI/ML and specialize i
 
 
 ### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/your-github-username)](https://github.com/your-github-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jahid-hasan-041151265)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/jahid-cuet)](https://github.com/jahid-cuet)
 
