@@ -32,6 +32,7 @@ A Biomedical Engineering student at CUET passionate about AI/ML and specialize i
     ![Bootstrap 5](https://img.shields.io/badge/bootstrap%205-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 - **Backend:**
+  
     ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 #### Data Analysis Libraries
