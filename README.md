@@ -60,12 +60,16 @@ A Biomedical Engineering student at CUET passionate about AI/ML and specialize i
  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
 
-#### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahid-cuet&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+### 📊 My GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-cuet&layout=compact&theme=dark&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=jahid-cuet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Jahid's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jahid-cuet&layout=compact&theme=tokyonight&count_private=true" alt="Jahid's Top Languages" height="180" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jahid-cuet&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=jahid-cuet&theme=tokyonight" alt="Jahid's Streak" />
+</p>
 
 
 
