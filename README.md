@@ -73,7 +73,7 @@ A Biomedical Engineering student at CUET passionate about AI/ML and specialize i
 
 
 ### 🔗 Connect with me
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/md-jahid-hasan-041151265">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
