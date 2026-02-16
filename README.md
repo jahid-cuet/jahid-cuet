@@ -60,10 +60,12 @@ A Biomedical Engineering student at CUET passionate about AI/ML and specialize i
  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
 
-# 📊 GitHub Stats:
+#### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-cuet&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=jahid-cuet&theme=dark&show_icons=true&hide_border=false&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-cuet&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
 
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/yourprofile)
