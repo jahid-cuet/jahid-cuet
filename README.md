@@ -3,7 +3,6 @@
 A Biomedical Engineering student at CUET passionate about AI/ML and specialize in bridging the gap between biomedical science, data analysis, and programming to innovate healthcare solutions for improved patient care, optimized workflows, and advanced medical research.
 
 [![](https://visitcount.itsvg.in/api?id=jahid-cuet&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ### 🌱 Currently exploring
 - Advanced Machine Learning & Deep Learning
 - Full-stack Web Development
